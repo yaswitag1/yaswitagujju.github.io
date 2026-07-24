@@ -1,0 +1,45 @@
+body{
+
+    font-family: Arial, sans-serif;
+    max-width:1000px;
+    margin:auto;
+    padding:40px;
+    background:#fafafa;
+    color:#333;
+
+}
+
+nav{
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+}
+
+ul{
+
+display:flex;
+gap:30px;
+list-style:none;
+
+}
+
+a{
+
+text-decoration:none;
+color:#333;
+
+}
+
+header{
+
+margin-top:80px;
+
+}
+
+section{
+
+margin-top:80px;
+
+}
